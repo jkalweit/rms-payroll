@@ -1,0 +1,3 @@
+node_modules
+client/src/node_modules
+npm-debug.log
